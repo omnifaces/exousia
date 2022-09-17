@@ -1,4 +1,4 @@
 # Exousia
 Implementation of Jakarta Authorization
 
-UPDATE: Exousia is being proposed to move over to Eclipse. See here: https://projects.eclipse.org/proposals/eclipse-exousia
+UPDATE: Exousia has been moved over to Eclipse. See here: https://github.com/eclipse-ee4j/exousia
